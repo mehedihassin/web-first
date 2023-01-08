@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url(images/m5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+h2 {
+    color: white;
+    margin-bottom: 5%;
+}
+
+.up-work {
+    text-align: right;
+    margin-top: 10%;
+}
+
+h1 {
+    color: white;
+}
+
+.oliv-color {
+    color: brown;
+}
+
+h3 {
+    color: white;
+}
+
+.border-area {
+    margin-top: 5%;
+
+
+}
